@@ -75,7 +75,7 @@ La carpeta por defecto de imágenes suele apuntar a **`IMAGES`** junto al ejecut
 ## Notas técnicas
 
 - Los binarios embebidos se descomprimen bajo el directorio de caché del usuario (por ejemplo `%LocalAppData%\DicomSender\embedded-bin` en Windows). Si actualizas DCMTK, recompila para sustituir los recursos embebidos.
-- Los scripts `.bat` del repositorio (`enviar_dicom_DCM4CHEE.bat`, `revisar_dicom.bat`, etc.) siguen usando rutas `bin\` relativas al disco; la GUI embebida no depende de copiar `bin` junto al `.exe` publicado.
+
 
 ---
 
