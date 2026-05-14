@@ -1,0 +1,26 @@
+{
+    "FixedFileInfo": {
+        "FileVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        },
+        "ProductVersion": {
+            "Major": 1,
+            "Minor": 0,
+            "Patch": 0,
+            "Build": 0
+        }
+    },
+    "StringFileInfo": {
+        "CompanyName": "Hospital Lucia de Holguin",
+        "FileDescription": "DICOM Sender — Transmision PACS",
+        "FileVersion": "1.0.0",
+        "InternalName": "DicomSender",
+        "LegalCopyright": "Lic. Alexis Parra Gonzalez",
+        "OriginalFilename": "DicomSender.exe",
+        "ProductName": "DICOM Sender"
+    },
+    "IconPath": "logo.ico"
+}
